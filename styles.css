@@ -1,0 +1,51 @@
+body {
+    background-color:#a86124;
+}
+
+.title {
+    color:#32ad84;
+}
+
+.about {
+    font-family: 'Open Sans Condensed', sans-serif;
+	color:#ffffff;
+}
+
+.sauerkraut {
+    font-family: 'Open Sans Condensed', sans-serif;
+	color:#2fc49f;
+}
+
+.like {
+    font-family: 'Texturina', serif;
+    color:#ffffff;
+}
+
+.spike {
+    font-family: 'Texturina', serif;
+    color:#ffffff;
+}
+
+.trike {
+    font-family: 'Texturina', serif;
+    color:#2fc49f;
+    text-indent: 50px;
+}
+
+.why {
+    color:#ffffff;
+}
+
+.year {
+	font-family: 'Lobster', cursive;
+    color:#ffffff;
+}
+
+.tear {
+	font-family: 'Lobster', cursive;
+    color:#2fc49f;
+}
+
+.image:hover {
+    opacity: .75;
+}
